@@ -1,0 +1,9 @@
+{
+  "name": "WithTempStorage",
+  "version": "0.1.0",
+  "description": "Library to facilitate creation of files to be persisted else where or temporary files that need to be written. Automatically cleans them up.",
+  "main": "TempStorage.ts",
+  "repository": "https://github.com/MrFournier/WithTempStorage.git",
+  "author": "Troy Fournier <troy_fournier@live.com>",
+  "license": "MIT"
+}
